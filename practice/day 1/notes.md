@@ -6,18 +6,19 @@ Based on reward & punishment
 Core Loop:
 State → Action → Reward → Next State → Repeat
 🔷 2. RL Components
-Term	Meaning
-Agent	Learner
-Environment	World
-State (S)	Current situation
-Action (A)	Decision
-Reward (R)	Feedback
-Policy (π)	Strategy
+Term           Meaning
+Agent          Learner
+Environment    World
+State (S)      Current situation
+Action (A)     Decision
+Reward (R)     Feedback
+Policy (π)     Strategy
 🔷 3. RL vs Supervised Learning
-RL	Supervised
-No labels	Labeled data
-Trial & error	Direct learning
-Delayed reward	Immediate feedback
+RL               Supervised
+No labels        Labeled data
+Trial & error    Direct learning
+Delayed reward   Immediate feedback
+
 🔷 4. Markov Decision Process (MDP)
 
 Defined as:
