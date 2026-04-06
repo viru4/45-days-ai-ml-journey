@@ -19,3 +19,7 @@
 
 ### Goal:
 Building strong RL foundation for advanced algorithms like Q-Learning and DQN.
+
+## Day 5 Projec
+
+🔗 DQN CartPole Project: https://github.com/viru4/dqn_cartpole
